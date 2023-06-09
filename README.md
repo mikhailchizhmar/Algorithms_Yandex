@@ -10,3 +10,5 @@
 6. Бинарный поиск
 7. Сортировка событий
 8. Деревья
+
+link: https://yandex.ru/yaintern/algorithm-training_1?utm_campaign=autumn_internship&utm_content=ml&utm_medium=social&utm_source=hh_vacancy
